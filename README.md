@@ -1,9 +1,10 @@
 # A Simple project in ReactJS with the use of React Hooks, Events, Functional Component to Increament and Decreament counter by 1 on Button Click
 
 1. Clone the project in local
-2. Provided node is installed on your system
-3. Run npm start from ./number-operation
-4. Application should load on http://localhost:3000/
+2. Go to ./number-operation and run npm install
+3. Provided node is installed on your system
+4. Run npm start from ./number-operation
+5. Application should load on http://localhost:3000/
 
 
 
